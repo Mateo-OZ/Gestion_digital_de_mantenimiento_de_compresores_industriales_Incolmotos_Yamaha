@@ -1,0 +1,32 @@
+﻿id_componente,fk_id_equipo,nombre_componente,datos_tecnicos
+1,1,Válvula de alta presión,Sistema neumático del compresor
+2,1,Radiador de aire comprimido,Intercambiador térmico del compresor
+3,1,Válvula de seguridad,Válvula de alivio de presión
+4,1,Contactor eléctrico,Componente de control eléctrico del compresor
+5,1,Variador de velocidad,Variador de frecuencia del motor del compresor
+6,1,Filtro de aire,Elemento filtrante de admisión de aire
+7,1,Filtro de aceite,Elemento filtrante del sistema de lubricación
+8,1,Separador de aceite,Cartucho separador aire-aceite
+9,1,Sistema de ventilación,Esterillas y ventilación del gabinete
+10,1,Acople motor-compresor,Acople mecánico tipo omega
+11,1,Rodamientos del compresor,Rodamientos de la unidad compresora
+12,1,Rodamientos del motor,Rodamientos del motor eléctrico
+13,1,Sistema de drenaje de condensados,Sistema ECO-Drain
+14,1,Secador frigorífico,Sistema de secado de aire comprimido
+15,1,Tubería de aire comprimido,Red neumática del compresor
+16,1,Válvula check,Válvula de retención del sistema
+17,1,Válvula de retención,Válvula anti-retorno
+18,1,DPS gabinete eléctrico,Dispositivo de protección contra sobretensión
+19,1,Rejilla ventilación gabinete,Ventilación del gabinete eléctrico
+20,1,Módulos aisladores variador,Módulos electrónicos del variador
+21,1,Intercambiador aire-aceite,Sistema de enfriamiento del compresor
+22,2,Compresor de Tornillo,"Modelo SFC 55T, No. parte 101310.0, No. serie 1029, año 2012, 125 PSIG, 357 CFM, 75 HP"
+23,2,Motor del Compresor,"SIEMENS 1LG6 228-2AA96-Z, 460V ±10%, 60 Hz, 55,9 kW, 3568 RPM, Parte 7763500100"
+24,2,Motor del Ventilador,"ATB AF 100L/6C-11S+E3, 230/460V, 1,1 kW, 1160 RPM, 23 kg"
+25,2,Secador Refrigerativo,"ABT 105, No. parte 1.8171.0, No. serie 1504, año 2012, R134a 1,25 kg"
+26,2,Variador de Velocidad,"3AC 380-480V 129A / 0-480V 110A, 45/55 kW, Serial T-C80312000024"
+27,2,Sigma Control 2,"Modelo C3, diagrama SCSD.K-U3003.01, Unidad APC 114"
+28,2,Sistema de Lubricación,"Aceite S-460, capacidad 36 litros"
+29,2,Sistema Neumático / Válvulas,"Válvula admisión, bypass, combinada, drenadores Eco-Drain 31"
+30,2,Gabinete Eléctrico,"Protección Tipo 1, fusibles AJT-600Vac-175A, Icc 50 kA rms sym 480Vmax"
+31,2,Sistema de Enfriamiento,"Enfriadores aire/aceite, condensador refrigerativo secador, Tipo K1"

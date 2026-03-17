@@ -1,0 +1,39 @@
+﻿id_repuesto,nombre_repuesto,referencia,descripcion
+1,Válvula de seguridad,"8,0348,0",Válvula de alivio de presión para compresor Kaeser
+2,Acople motor–unidad compresora,SFC55T-4586028,Acople mecánico entre motor y unidad compresora
+3,Kit revisión válvula de retención PM,202127.20021,Kit de reparación para válvula check del compresor
+4,Módulo de potencia SKKR300/0.2-BVR,SKKR300/0.2-BVR,Módulo electrónico del variador del compresor
+5,Módulo de potencia SKKD100/16,SKKD100/16,Módulo electrónico del variador
+6,Módulo de potencia SKM195GAL126DP,SKM195GAL126DP,Módulo electrónico del variador
+7,DPS marca Siner Tamer,,Dispositivo de protección contra sobretensiones
+8,Radiador de aire comprimido,,Intercambiador térmico del compresor
+9,Filtro de aire,,Elemento filtrante del sistema de admisión
+10,Filtro de aceite,,Elemento filtrante del sistema de lubricación
+11,Separador de aceite,,Cartucho separador aire-aceite del compresor
+12,Esterilla filtrante,,Filtro de ventilación del gabinete del compresor
+13,Aceite sintético S460,S460,Lubricante del compresor Kaeser
+14,Rodamientos compresor,,Rodamientos de la unidad compresora
+15,Rodamientos motor,,Rodamientos del motor eléctrico
+16,Eco Drain,,Sistema automático de drenaje de condensados
+17,Tornillería y helicoil reparación,,Elementos de fijación para reparación de roscas
+18,Módulos aisladores variador,,Módulos electrónicos del variador del compresor
+19,Contactor eléctrico,,Contactor de potencia del sistema eléctrico del compresor
+20,"Manguera S-96 ACOP L 1 1/2""",S-96 ACOP,Manguera inox conexión red de aire
+21,Eco Drain 31 Varid 24VDC,ECO-DR.31,Drenador automático de condensado 24VDC
+22,Estera filtro AM 235P 112x112,AM 235P,Estera del filtro gabinete eléctrico
+23,Cartucho filtrante de aire,1250,Filtro de aire compresor 420x95mm
+24,Grasa rodamientos ESSO UNIREX N3,9.0915.0 / 6.3234.0,Grasa alta temperatura para rodamientos
+25,Kit mtto. Válvula auxiliar combinada,"400994,00020",Kit mantenimiento válvula auxiliar
+26,Kit mtto. Válvula de admisión,"400892,0",Kit mantenimiento válvula de admisión
+27,Kit servicio Eco-Drain 31,KIT ECO-DR.31,Kit de mantenimiento drenador automático
+28,Cartucho separador de aceite,1450,Cartucho del separador de aceite
+29,Filtro de aceite,1200,Elemento filtrante de aceite 298mm
+30,Aceite lubricante S-460,1600,Lubricante semi-sintético ISO 46 Kaeser S-460
+31,Fusibles Sitor 3NE1 224-0 160A,3NE1 224-0,Fusibles de alimentación 600V 160A
+32,Acople flexible motor-compresor,Omega,Acoplamiento elástico omega motor-unidad compresora
+33,Kit reparación válvula presión mínima,Kit val.ret/pres.min,Kit empaques válvula de mínima
+34,Rodamientos 6203,6203,Rodamientos motor ventilador
+35,Contactor SIEMENS SIRIUS 160A,SIRIUS 160A,Contactor principal 160A 400/690V
+36,Radiador enfriador aire comprimido SFC55T,4586028,Radiador enfriador aire-aire
+37,DPS SineTamer,SineTamer,Dispositivo protección sobretensiones
+38,Kit refrigerador aire comprimido,5.3678E0,Intercambiador de calor aire-aire
