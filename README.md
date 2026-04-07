@@ -44,13 +44,29 @@ Gestion_digital_de_mantenimiento_de_compresores_industriales_Incolmotos_Yamaha/
 ├── Diccionario_De_Datos.pdf
 ├── Informe sobre vacíos de información e inconsistencias.pdf
 │
-└── Sprint 2/
-    ├── Datos tablas/
-    ├── Consultas.sql
-    ├── creacion_esquema_base_de_datos.sql
-    ├── privilegios_usuarios.sql
-    ├── Datos.xlsx
-    ├── Criterios de inclusión y estructura mínima estandarizada de los registros (1).pdf
-    ├── Diccionario_De_Datos_Actualizado.pdf
-    ├── Informe sobre validez del esquema en estrella.pdf
-    └── modelo entidad-relacion.png.png
+├── Sprint 2/
+│   ├── Datos tablas/
+│   │   ├── Componentes.csv
+│   │   ├── Detalle_intervencion.csv
+│   │   ├── Equipos.csv
+│   │   ├── Intervencion_tecnico (2).csv
+│   │   ├── Intervenciones (2).csv
+│   │   ├── Repuestos.csv
+│   │   ├── Tecnicos (2).csv
+│   │   └── Tipo_novedad.csv
+│   ├── Consultas.sql
+│   ├── creacion_esquema_base_de_datos.sql
+│   ├── privilegios_usuarios.sql
+│   ├── Datos.xlsx
+│   ├── Criterios de inclusión y estructura mínima estandarizada de los registros (1).pdf
+│   ├── Diccionario_De_Datos_Actualizado.pdf
+│   ├── Informe sobre validez del esquema en estrella.pdf
+│   └── modelo entidad-relacion.png.png
+│
+└── Sprint 3/
+    ├── 03_Definicion_resultados_a_medir.pdf
+    ├── 05_Definicion_datos_dashboard.pdf
+    ├── Documentación formulario.pdf
+    ├── Estructura_Interfaz-1.pdf
+    ├── HU12_interfaz.pdf
+    └── HU15_Indicadores_Mateo.pdf
